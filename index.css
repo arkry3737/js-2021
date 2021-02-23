@@ -1,6 +1,20 @@
 body {
-  background-color: peru;
+  background-color: white;
 }
-h1 {
-  color: white;
+.js-title {
+  color: teal;
+  font-size: 100px;
 }
+.form,
+.greetings {
+  display: none;
+}
+.showing {
+  display: block;
+}
+.js-clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.
