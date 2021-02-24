@@ -12,9 +12,3 @@ body {
 .showing {
   display: block;
 }
-.js-clock {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.
